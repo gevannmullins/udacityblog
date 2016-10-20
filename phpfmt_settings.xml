@@ -1,0 +1,7 @@
+<application>
+  <component name="phpfmtSettings">
+    <option name="autoUpdatePhar" value="true" />
+    <option name="debug" value="true" />
+    <option name="formatOnSave" value="true" />
+  </component>
+</application>
