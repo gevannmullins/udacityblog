@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../craft/config/controllers/AllPagesContentTransformer.php - [GreenGain]'" />
-    <option name="defaultScopeName" value="File '.../craft/config/controllers/AllPagesContentTransformer.php - [GreenGain]'" />
-    <option name="SEARCH_SCOPE" value="File '.../craft/config/controllers/AllPagesContentTransformer.php - [GreenGain]'" />
+    <option name="customScope" value="Open Files" />
+    <option name="defaultScopeName" value="Open Files" />
+    <option name="SEARCH_SCOPE" value="Open Files" />
   </component>
 </application>
