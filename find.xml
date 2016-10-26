@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../craft/config/controllers/BlogEntriesTransformer.php - [GreenGain]'" />
-    <option name="defaultScopeName" value="File '.../craft/config/controllers/BlogEntriesTransformer.php - [GreenGain]'" />
-    <option name="SEARCH_SCOPE" value="File '.../craft/config/controllers/BlogEntriesTransformer.php - [GreenGain]'" />
+    <option name="customScope" value="File '.../craft/config/controllers/GlobalSetTransformer.php - [GreenGain]'" />
+    <option name="defaultScopeName" value="File '.../craft/config/controllers/GlobalSetTransformer.php - [GreenGain]'" />
+    <option name="SEARCH_SCOPE" value="File '.../craft/config/controllers/GlobalSetTransformer.php - [GreenGain]'" />
   </component>
 </application>
