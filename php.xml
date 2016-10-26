@@ -12,13 +12,13 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/Applications/MAMP/bin/php/php7.0.8/bin/php" id="b7f9b0ae-c9dc-40ae-afd8-1204818bdfc3" name="PHP 7.0.8" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/Applications/MAMP/bin/php/php5.6.10/bin/php" id="f7096273-2096-49e7-822e-19d86c6925e0" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/Applications/MAMP/bin/php/php5.6.10/bin/php" id="f7096273-2096-49e7-822e-19d86c6925e0" name="PHP 5.6" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/MAMP/xdebug/debugclient/install-sh" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php5.6.10/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php5.6.10/bin/php" path_separator=":" version="5.6.10">
+        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php5.6.10/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php5.6.10/bin/php" path_separator=":" version="5.6.10" warning="Failed loading /Applications/MAMP/xdebug/debugclient/install-sh:  dlopen(/Applications/MAMP/xdebug/debugclient/install-sh, 9): no suitable image found.  Did find:&#10;&#9;/Applications/MAMP/xdebug/debugclient/install-sh: unknown file type, first eight bytes: 0x23 0x21 0x2F 0x62 0x69 0x6E 0x2F 0x73&#10;">
           <additional_php_ini />
           <configuration_file>/Applications/MAMP/bin/php/php5.6.10/conf/php.ini</configuration_file>
           <configuration_options>
