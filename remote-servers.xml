@@ -3,6 +3,7 @@
     <remote-server name="Docker" type="docker">
       <configuration>
         <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+        <option name="composeExecPath" value="$USER_HOME$/Documents/projects/craftPluginDev-Boiler/docker-compose.yml" />
         <option name="machine" value="default" />
       </configuration>
     </remote-server>
