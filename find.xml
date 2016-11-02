@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../craft/config/elementapi.php - [GreenGain]'" />
-    <option name="defaultScopeName" value="File '.../craft/config/elementapi.php - [GreenGain]'" />
-    <option name="SEARCH_SCOPE" value="File '.../craft/config/elementapi.php - [GreenGain]'" />
+    <option name="customScope" value="File '.../craft/plugins/elementapi/ElementApiPlugin.php - [GreenGain]'" />
+    <option name="defaultScopeName" value="File '.../craft/plugins/elementapi/ElementApiPlugin.php - [GreenGain]'" />
+    <option name="SEARCH_SCOPE" value="File '.../craft/plugins/elementapi/ElementApiPlugin.php - [GreenGain]'" />
   </component>
 </application>
