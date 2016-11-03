@@ -1,7 +1,9 @@
 <application>
   <component name="phpfmtSettings">
+    <option name="activated" value="false" />
     <option name="autoUpdatePhar" value="true" />
     <option name="debug" value="true" />
+    <option name="engineChannel" value="alpha" />
     <option name="formatOnSave" value="true" />
   </component>
 </application>
