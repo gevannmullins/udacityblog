@@ -308,7 +308,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.0.8">
-        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.0.8/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.0.8/bin/php" path_separator=":" version="7.0.8">
+        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.0.8/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.0.8/bin/php" path_separator=":" version="7.0.8" warning="PHP:  syntax error, unexpected '(' in /Applications/MAMP/bin/php/php7.0.8/conf/php.ini on line 1169&#10;Failed loading /Applications/MAMP/bin/php/php7.0.8/lib/php/extensions/no-debug-non-zts-20151012/&lt;path to php_xdebug.dll&gt;:  dlopen(/Applications/MAMP/bin/php/php7.0.8/lib/php/extensions/no-debug-non-zts-20151012/&lt;path to php_xdebug.dll&gt;, 9): image not found&#10;">
           <additional_php_ini />
           <configuration_file>/Applications/MAMP/bin/php/php7.0.8/conf/php.ini</configuration_file>
           <configuration_options>
