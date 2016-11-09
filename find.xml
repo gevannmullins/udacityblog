@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../craft/config/general.php - [sally-ann-creed-craft]'" />
-    <option name="defaultScopeName" value="File '.../craft/config/general.php - [sally-ann-creed-craft]'" />
-    <option name="SEARCH_SCOPE" value="File '.../craft/config/general.php - [sally-ann-creed-craft]'" />
+    <option name="customScope" value="Responsive Plugin" />
+    <option name="defaultScopeName" value="Responsive Plugin" />
+    <option name="SEARCH_SCOPE" value="Responsive Plugin" />
   </component>
 </application>
