@@ -1,7 +1,7 @@
 <application>
   <component name="MessDetector">
     <phpmd_settings>
-      <MessDetectorConfiguration />
+      <MessDetectorConfiguration max_messages_per_file="100" tool_path="$USER_HOME$/Documents/projects/sally-ann-creed-craft/craft/plugins/responsive/vendor/phpmd/phpmd/src/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
