@@ -1,10 +1,12 @@
 <application>
   <component name="phpfmtSettings">
-    <option name="activated" value="false" />
     <option name="autoUpdatePhar" value="true" />
     <option name="debug" value="true" />
     <option name="engineChannel" value="alpha" />
     <option name="formatOnSave" value="true" />
+    <option name="psr1" value="true" />
+    <option name="psr1Naming" value="true" />
+    <option name="psr2" value="true" />
     <option name="settersGettersType" value="camelCase" />
   </component>
 </application>
