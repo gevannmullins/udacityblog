@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="google-cloud-sdk-python">
+      <CLASSES />
+      <JAVADOC />
+      <NATIVE>
+        <root url="file://$USER_HOME$/sdk_engines/google-cloud-sdk-python" />
+      </NATIVE>
+      <SOURCES />
+    </library>
     <library name="Python 2.7.10  interpreter library">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />

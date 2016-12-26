@@ -10,8 +10,5 @@
     <remote-server name="Google App Engine" type="gcp-app-engine">
       <configuration />
     </remote-server>
-    <remote-server name="Google App Engine PHP" type="gcp-app-engine">
-      <configuration />
-    </remote-server>
   </component>
 </application>
