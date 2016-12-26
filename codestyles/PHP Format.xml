@@ -1,4 +1,5 @@
 <code_scheme name="PHP Format">
+  <option name="RIGHT_MARGIN" value="500" />
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
