@@ -7,8 +7,5 @@
         <option name="machine" value="default" />
       </configuration>
     </remote-server>
-    <remote-server name="Google App Engine" type="gcp-app-engine">
-      <configuration />
-    </remote-server>
   </component>
 </application>
