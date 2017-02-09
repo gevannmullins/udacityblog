@@ -5,6 +5,7 @@
       <JAVADOC />
       <NATIVE>
         <root url="file://$USER_HOME$/sdk_engines/google-cloud-sdk-python" />
+        <root url="file:///Applications/GoogleAppEngineLauncher.app/Contents/Resources/GoogleAppEngine-default.bundle/Contents/Resources" />
       </NATIVE>
       <SOURCES />
     </library>
