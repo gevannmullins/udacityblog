@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="vagrant" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="CURRENT_VAGRANT">
+  <tool name="vagrant" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="REMOTE_SDK" CONNECTION_ID="vagrant:///Users/gevannmullins/Documents/Responsive/udacityFullStack/item_catalog/vagrant/usr/bin/python">
     <exec>
       <option name="COMMAND" />
       <option name="PARAMETERS" />
