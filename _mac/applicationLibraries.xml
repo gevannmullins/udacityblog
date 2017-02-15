@@ -63,5 +63,10 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
       </SOURCES>
     </library>
+    <library name="Remote Python 2.7.6 Vagrant VM at ~/Documents/Responsive/udacityFullStack/item_catalog/vagrant (/usr/bin/python) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
